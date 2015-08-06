@@ -1,12 +1,12 @@
 #Sleep_In?
 
-#####Gives the day of the week of a given date, and whether or not you can sleep in, 8/4/2015
+#####Gives the day of the week of a given date, and tells whether or not you can sleep in, 8/4/2015
 
 ####By Chris Underwood and Shannon Mulloy
 
 ##Description
 
-Creates a method that takes in a date (as a string, ex "8/4/2015") and returns the day of the week and whether you can sleep in (if it's the weekend).
+Creates a method that takes in a date (as a string, ex "8/4/2015") and returns the day of the week and whether you can sleep in (i.e. whether it's the weekend).
 
 ##Setup
 
